@@ -5,7 +5,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/suthepphomnoy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/facebook.svg" alt="suthepphomnoy" height="30" width="40" /></a>
+<a href="https://fb.com/suthepphomnoy" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Facebook_f_logo_%282019%29.svg/1365px-Facebook_f_logo_%282019%29.svg.png" alt="suthepphomnoy" height="30" width="40" />suthep phomnoy</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
